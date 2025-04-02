@@ -1,4 +1,4 @@
-# Real Estate Scraper Pro
+# Real Estate Scraper 
 
 A Python application that scrapes real estate listings from multiple Ethiopian property websites and displays the data in a user-friendly GUI.
 
